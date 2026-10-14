@@ -1,0 +1,29 @@
+﻿# Build outputs
+*.exe
+*.pdb
+*.obj
+*.lib
+*.dll
+*.res
+*.pch
+*.metagen
+*.recipe
+*.cache
+*.log
+*.suo
+*.user
+*.db
+
+# Debug/Release klasörleri
+x64/
+Debug/
+Release/
+.vs/
+
+# tlog dosyaları
+*.tlog
+*.tlog/
+
+# Geçici dosyalar
+*.tmp
+*.bak
